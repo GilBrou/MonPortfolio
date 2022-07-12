@@ -1,3 +1,44 @@
+  {
+      "pId": "projet9",
+      "pImg": "img/projets/Gali.webp",
+      "pName": "Rachel Gali - Autrice SFFF",
+      "pDescription": "L'univers d'une apprentie conteuse",
+      "pInfos": "Rédaction en cours.",
+      "pInfos": "Rédaction en cours.",
+      "technos": [
+        {
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
+        },
+        {
+          "name": "JS",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "img/techIcons/bootstrap.webp"
+        },
+        {
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
+        },
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
+        }
+      ],
+      "pSite": "https://rachelgali.netlify.app/",
+      "but1": "Visiter le site",
+      "but2": "Détails du code",
+      "pCode": "https://github.com/GilBrou/KasaProject"
+    },
+
+
+
  {
       "pId": "projet11",
       "pImg": "img/projets/P1.webp",
