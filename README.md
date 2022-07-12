@@ -34,4 +34,3 @@ Lien pour consulter le site : https://www.gillianbroussedev.com/
 ![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/Site3.webp)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/Site4.webp)
-
