@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "logo": "img/GbLogo.webp",
+    "nom": "Gillian Brousse - développeur Front-End",
+    "sectionTitle1": "À propos",
+    "sectionTitle2": "Parcours",
+    "sectionTitle3": "Réalisations",
+    "sectionTitle4": "CV",
+    "sectionTitle5": "Contact"
+  },
+  "intro": {
+    "title": "Bienvenue",
+    "paragraphIntro": "Développeur Front-End junior diplômé avec une appétence certaine pour l'UI et l'UX, je suis à la recherche d'une entreprise afin de me former en alternance au métier d'UX designer en collaboration avec OpenClassrooms. Pour autant, je saurais mettre à votre disposition sans délai les compétences acquises lors de ma formation de Développeur d'application JavaScript/React.",
+    "photoIntro": "img/GBphoto.webp",
+    "photoAlt": "Photo de Gillian Brousse"
+  },
+  "parcours": [
+    {
+      "number": "1",
+      "cardClassName": "card Carreer1",
+      "parcoursTitle1": "2005 - 2016 : Restauration",
+      "parcoursSubTitle": "BEP et BAC PRO Hôtellerie-Restauration",
+      "parcoursTitle2": "Commis, Second et Chef - du salon de thé au restaurant gastronomique",
+      "parcoursSubTitleClass": "subTitle noLink",
+      "parcoursTitle2Class": "title2",
+      "parcoursImg": "img/parcours/CV1.webp",
+      "parcoursImgAlt": "Carrière cuisinier",
+      "parcoursImgClass": "img-responsive cardImgL",
+      "parcoursParagraph": "De prime abord, on pourrait penser que les métiers de bouche n'ont pas grand-chose à voir avec celui de développeur... Pourtant, connaissances des bonnes pratiques, travail d'équipe, gestion du stress, passion et motivation sont autant de savoir-faire et de savoir-être que j'ai mobilisé au quotidien en tant que cuisinier. Finalement, élaborer un produit final en alliant techniques formelles, maîtrise des normes, rigueur et créativité tout en respectant un cahier des charges et un deadline est une description de tâche aussi pertinente dans le monde du développement que dans une cuisine."
+    },
+    {
+      "number": "2",
+      "cardClassName": "card Carreer2",
+      "parcoursTitle1": "2011 - 2019 : Commerce",
+      "parcoursSubTitle": "CQP Vendeur-conseil en magasin",
+      "parcoursTitle2": "Employé de vente, Co-créateur, Créateur et Gestionnaire d'entreprise",
+      "parcoursSubTitleClass": "subTitle subTitleR noLink",
+      "parcoursTitle2Class": "title3 title2",
+      "parcoursImg": "img/parcours/CV2.webp",
+      "parcoursImgAlt": "Carrière Commerçant",
+      "parcoursImgClass": "img-responsive cardImgR",
+      "parcoursParagraph": "En parallèle de ma carrière en restauration, j'ai ressenti le besoin d'entreprendre et j'ai créé trois entreprises : un e-commerce de vêtements et produits axés sur la Pop-culture, une boutique de bijoux et accessoires et un magasin de décoration et cadeaux. De cette manière, j'ai acquis des compétences utiles à tous métiers, de la relation client (conseil, fidélisation, techniques de vente) à la gestion d'entreprise (gestion, législation, administratif, relations fournisseurs). Afin de parfaire cette expérience, j'ai également passé une formation et obtenu un diplôme dans la vente."
+    },
+    {
+      "number": "3",
+      "cardClassName": "card Carreer3",
+      "parcoursTitle1": "Depuis 2017 : Édition littéraire",
+      "parcoursSubTitle": "Mon portfolio artistique",
+      "link": "https://gillianbrousse.com",
+      "parcoursTitle2": "Monteur vidéo, Graphiste, Auteur et Illustrateur",
+      "parcoursTitle2Class": "title2",
+      "parcoursSubTitleClass": "subTitle thisLinks",
+      "parcoursImg": "img/parcours/CV3.webp",
+      "parcoursImgAlt": "Carrière Auteur et Illustrateur",
+      "parcoursImgClass": "img-responsive cardImgL",
+      "parcoursParagraph": "Je suis également auteur et illustrateur dans les genres de l’imaginaire, publié dans une dizaine de maisons d'édition. Mon premier roman est d’ores et déjà disponible tandis que mon prochain ouvrage, un essai sur la SF, verra le jour cette année. J’ai également pu travailler comme monteur, vidéaste et graphiste auprès de mes éditeurs (booktrailers, infographies, illustrations de couvertures, conception de logos…) Ces expériences m’ont dotées de solides capacités rédactionnelles, ainsi que de compétences en conception graphique et en communication visuelle pouvant être mises à profit en UI et UX design."
+    },
+    {
+      "number": "4",
+      "cardClassName": "card Carreer4",
+      "parcoursTitle1": "Depuis 2020 : Développement",
+      "parcoursSubTitle": "Diplôme RNCP Développeur concepteur logiciel",
+      "parcoursTitle2": "Développeur Front-End",
+      "parcoursTitle2Class": "title3 title2",
+      "parcoursSubTitleClass": "subTitle subTitleR noLink",
+      "parcoursImg": "img/parcours/CV4.webp",
+      "parcoursImgAlt": "Carrière Développeur",
+      "parcoursImgClass": "img-responsive cardImgR",
+      "parcoursParagraph": "Bien que j’aie géré des sites via CMS pendant des années, mes premières lignes de codes remontent… à 2020, lorsque je réalise un petit jeu rétro se déroulant dans l’univers de mon premier roman à l’aide du moteur Adventure Game Studio et son langage dérivé du C++. Ce premier défi passionnant entérine rapidement mon envie d’apprendre, puis de me reconvertir dans ce milieu. Après une formation diplômante d’un an auprès de l’entreprise OpenClassrooms, me voici développeur Front-End, tout prêt à intégrer l’entreprise qui me permettra d’assoir mes compétences et d’en acquérir de nouvelles."
+    }
+  ],
+  "cv": {
+    "cvImg": "img/Skills.webp",
+    "cvImgAlt": "Programming skills",
+    "cvParagraph": "Si mon profil apparaît cohérent avec vos recherches, que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou que vous souhaitez que nous nous rencontrions, je vous invite à consulter / télécharger mon cv et à me contacter.",
+    "cvParagraph2": "Si mon profil apparaît cohérent avec vos recherches, que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou que vous souhaitez que nous échangions ensemble sur le sujet, n'hésitez pas à consulter ou télécharger mon cv et à me contacter pour un entretien. Vous trouverez également mes coordonnées la rubrique ''contact'' ci-dessous."
+  },
+  "contact": {
+    "title": "Contact",
+    "mail": "gillian.brousse@outlook.fr",
+    "mailA": "icône mail",
+    "mailI": "img/contactIcons/mail.webp",
+    "cParagraph": "Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours",
+    "tel": "06 16 72 65 77",
+    "telI": "img/contactIcons/tel.webp",
+    "telA": "icône téléphone",
+    "git": "Github",
+    "githubI": "img/contactIcons/github.webp",
+    "githubA": "icône Github",
+    "linkdn": "Linkedin",
+    "linkdnI": "img/contactIcons/linkd.webp",
+    "linkdnA": "icône Linkedin",
+    "GitLink": "https://github.com/GilBrou",
+    "linkdLink": "https://fr.linkedin.com/in/gillianbrousse"
+  }
+}
