@@ -2,6 +2,8 @@
 
 Projet personnel de création de mon portfolio professionnel.
 
+![Alt text](./public/img/GBLogo.webp?raw=true "Title")
+
 détail :
 
 		Utilisation de React et React Router.
