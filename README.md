@@ -1,8 +1,8 @@
 # MonPortfolio
 
-Projet personnel de création de mon portfolio professionnel.
+![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/GbLogo.webp)
 
-		![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/GbLogo.webp)
+Projet personnel de création de mon portfolio professionnel.
 
 détail :
 
