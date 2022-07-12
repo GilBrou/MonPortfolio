@@ -28,9 +28,3 @@ Environnement de travail :
 Lien pour consulter le site : https://www.gillianbroussedev.com/
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/Site1.webp)
-
-![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/Site2.webp)
-
-![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/Site3.webp)
-
-![Preview](https://raw.githubusercontent.com/GilBrou/MonPortfolio/master/public/img/Site4.webp)
