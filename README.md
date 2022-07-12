@@ -2,7 +2,7 @@
 
 Projet personnel de création de mon portfolio professionnel.
 
-![Alt text](./public/img/GBLogo.webp?raw=true "Title")
+![Alt text](/img/GBLogo.webp?raw=true "Title")
 
 détail :
 
