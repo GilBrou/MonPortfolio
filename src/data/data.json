@@ -26,7 +26,7 @@
       "parcoursImg": "img/parcours/CV1.webp",
       "parcoursImgAlt": "Carrière cuisinier",
       "parcoursImgClass": "img-responsive cardImgL",
-      "parcoursParagraph": "De prime abord, on pourrait penser que les métiers de bouche n'ont pas grand-chose à voir avec celui de développeur... Pourtant, connaissances des bonnes pratiques, travail d'équipe, gestion du stress, passion et motivation sont autant de savoir-faire et de savoir-être que j'ai mobilisé au quotidien en tant que cuisinier. Finalement, élaborer un produit final en alliant techniques formelles, maîtrise des normes, rigueur et créativité tout en respectant un cahier des charges et un deadline est une description de tâche aussi pertinente dans le monde du développement que dans une cuisine."
+      "parcoursParagraph": "De prime abord, on pourrait penser que les métiers de bouche n'ont pas grand-chose à voir avec celui de développeur... Pourtant, connaissances des bonnes pratiques, travail d'équipe, gestion du stress, passion et motivation sont autant de savoir-faire et de savoir-être que j'ai mobilisé au quotidien en tant que cuisinier. Finalement, élaborer un produit en alliant techniques formelles, maîtrise des normes, rigueur et créativité tout en respectant un cahier des charges et une deadline est une description de tâche aussi pertinente dans le monde du développement que dans une cuisine."
     },
     {
       "number": "2",
@@ -39,7 +39,7 @@
       "parcoursImg": "img/parcours/CV2.webp",
       "parcoursImgAlt": "Carrière Commerçant",
       "parcoursImgClass": "img-responsive cardImgR",
-      "parcoursParagraph": "En parallèle de ma carrière en restauration, j'ai ressenti le besoin d'entreprendre et j'ai créé trois entreprises : un e-commerce de vêtements et produits axés sur la Pop-culture, une boutique de bijoux et accessoires et un magasin de décoration et cadeaux. De cette manière, j'ai acquis des compétences utiles à tous métiers, de la relation client (conseil, fidélisation, techniques de vente) à la gestion d'entreprise (gestion, législation, administratif, relations fournisseurs). Afin de parfaire cette expérience, j'ai également passé une formation et obtenu un diplôme dans la vente."
+      "parcoursParagraph": "En parallèle de ma carrière en restauration, j'ai ressenti le besoin d'entreprendre et j'ai créé successivement : un e-commerce de vêtements et produits axés sur la Pop-culture, une boutique de bijoux et accessoires et un magasin de décoration et cadeaux. De cette manière, j'ai acquis des compétences utiles à tous métiers, de la relation client (conseil, fidélisation, techniques de vente) à la gestion d'entreprise (législation, administratif, relations fournisseurs). Afin de parfaire cette expérience, j'ai également suivi une formation et obtenu un diplôme dans la vente."
     },
     {
       "number": "3",
@@ -53,7 +53,7 @@
       "parcoursImg": "img/parcours/CV3.webp",
       "parcoursImgAlt": "Carrière Auteur et Illustrateur",
       "parcoursImgClass": "img-responsive cardImgL",
-      "parcoursParagraph": "Je suis également auteur et illustrateur dans les genres de l’imaginaire, publié dans une dizaine de maisons d'édition. Mon premier roman est d’ores et déjà disponible tandis que mon prochain ouvrage, un essai sur la SF, verra le jour cette année. J’ai également pu travailler comme monteur, vidéaste et graphiste auprès de mes éditeurs (booktrailers, infographies, illustrations de couvertures, conception de logos…) Ces expériences m’ont dotées de solides capacités rédactionnelles, ainsi que de compétences en conception graphique et en communication visuelle pouvant être mises à profit en UI et UX design."
+      "parcoursParagraph": "Je suis également auteur et illustrateur dans les genres de l’imaginaire, publié dans une dizaine de maisons d'édition. Mon premier roman est d’ores et déjà disponible tandis que mon prochain ouvrage, un essai sur la Science-fiction, verra le jour cette année. J’ai également pu travailler comme vidéaste et graphiste auprès de mes éditeurs (booktrailers, infographies, couvertures, conception de logos…). Ces expériences m’ont doté de solides capacités rédactionnelles, ainsi que de compétences en graphisme et en communication visuelle pouvant être mises à profit en UI et UX design."
     },
     {
       "number": "4",
@@ -66,21 +66,20 @@
       "parcoursImg": "img/parcours/CV4.webp",
       "parcoursImgAlt": "Carrière Développeur",
       "parcoursImgClass": "img-responsive cardImgR",
-      "parcoursParagraph": "Bien que j’aie géré des sites via CMS pendant des années, mes premières lignes de codes remontent… à 2020, lorsque je réalise un petit jeu rétro se déroulant dans l’univers de mon premier roman à l’aide du moteur Adventure Game Studio et son langage dérivé du C++. Ce premier défi passionnant entérine rapidement mon envie d’apprendre, puis de me reconvertir dans ce milieu. Après une formation diplômante d’un an auprès de l’entreprise OpenClassrooms, me voici développeur Front-End, tout prêt à intégrer l’entreprise qui me permettra d’assoir mes compétences et d’en acquérir de nouvelles."
+      "parcoursParagraph": "Bien que j’aie géré des sites via CMS pendant des années, mes premières lignes de code remontent à 2020, lorsque je réalise un petit jeu rétro se déroulant dans l’univers de mon roman à l’aide du moteur Adventure Game Studio et son langage dérivé du C++. Ce premier défi passionnant entérine rapidement mon envie d’apprendre, puis de me reconvertir dans ce milieu. Après une formation diplômante d’un an auprès de l'organisme OpenClassrooms, me voici développeur Front-End, prêt à intégrer l’entreprise qui me permettra de consolider mes compétences et d’en acquérir de nouvelles."
     }
   ],
   "cv": {
     "cvImg": "img/Skills.webp",
     "cvImgAlt": "Programming skills",
-    "cvParagraph": "Si mon profil apparaît cohérent avec vos recherches, que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou que vous souhaitez que nous nous rencontrions, je vous invite à consulter / télécharger mon cv et à me contacter.",
-    "cvParagraph2": "Si mon profil apparaît cohérent avec vos recherches, que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou que vous souhaitez que nous échangions ensemble sur le sujet, n'hésitez pas à consulter ou télécharger mon cv et à me contacter pour un entretien. Vous trouverez également mes coordonnées la rubrique ''contact'' ci-dessous."
+    "cvParagraph": "Si mon profil apparaît cohérent avec vos recherches et que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou me rencontrer, je vous invite à consulter / télécharger mon CV et à me contacter."
   },
   "contact": {
     "title": "Contact",
     "mail": "gillian.brousse@outlook.fr",
     "mailA": "icône mail",
     "mailI": "img/contactIcons/mail.webp",
-    "cParagraph": "Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours Rédaction en cours",
+    "cParagraph": "",
     "tel": "06 16 72 65 77",
     "telI": "img/contactIcons/tel.webp",
     "telA": "icône téléphone",

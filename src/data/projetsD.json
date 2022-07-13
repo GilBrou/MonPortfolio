@@ -3,7 +3,7 @@
     {
       "pId": "projet10",
       "pImg": "img/projets/Portfolio.webp",
-      "pName": "Mon portfolio dev",
+      "pName": "Mon portfolio",
       "pDescription": "",
       "pInfos": "Réalisation de la partie Front-End full responsive, DOM dynamique (depuis Json), composants modulaires et réutilisables, code commenté. Création de la charte graphique, logo, infographies, icônes et animations.",
       "technos": [
@@ -45,7 +45,7 @@
       "pImg": "img/projets/Kasa.webp",
       "pName": "Kasa",
       "pDescription": "Plateforme spécialisée dans la location d’appartements.",
-      "pInfos": "Refonte totalte en full responsive et premiers pas avec React ( pas de librairies externes), composants modulaires et réutilisables, page 404 pour les routes inexistantes. Données mockées en Json",
+      "pInfos": "Refonte totale en full responsive et premiers pas avec React (pas de librairies externes), composants modulaires et réutilisables, page 404 pour les routes inexistantes. Données mockées en Json.",
       "technos": [
         {
           "name": "Html",
@@ -77,7 +77,7 @@
       "pId": "projet7",
       "pImg": "img/projets/CultQuiz.webp",
       "pName": "CultQuiz",
-      "pDescription": "Site de quiz autour de différents sujets issus de la pop culture.",
+      "pDescription": "Site de quiz sur la Pop-culture.",
       "pInfos": "Projet personnel : création du logo et de la charte graphique, POO, pages dynamiques (depuis fichier Json), rédaction des questions/réponses, affichage du score final et des réponses, animations fluides, fonctionnalité de tri des quiz par sujet, mode multijoueur local, full responsive.",
       "technos": [
         {
@@ -105,9 +105,9 @@
     {
       "pId": "projet6",
       "pImg": "img/projets/Chef.webp",
-      "pName": "Ce soir, c'est VOUS le Chef !",
-      "pDescription": "Site de recettes de cuisine.",
-      "pInfos": "Ma mission : Réaliser la partie Front-End fonctionnelle et full responsive, développer deux algorithmes de recherche puis réaliser une fiche d’investigation de fonctionnalité afin de comparer leurs performances et, enfin, implémenter la fonctionnalité de recherche, création du logo. Données mockées.",
+      "pName": "Ce soir, c'est VOUS le chef !",
+      "pDescription": "Moteur de recherche de recettes de cuisine",
+      "pInfos": "Ma mission : réaliser la partie Front-End et full responsive, développer deux algorithmes de recherche puis réaliser une fiche d’investigation de fonctionnalité afin de comparer leurs performances et, enfin, implémenter la fonctionnalité de recherche par ingrédients, appareils et ustensiles, création du logo. Données mockées.",
       "technos": [
         {
           "name": "Html",
@@ -136,7 +136,7 @@
       "pImg": "img/projets/PICme.webp",
       "pName": "PICme",
       "pDescription": "Plateforme pour photographes indépendants",
-      "pInfos": "Réalisation de la partie Front-End fonctionnelle, POO, site responsive desktop & mobile, Liste dynamique des photographes et lien vers page dédiée, tri par tags, galerie photo et vidéo navigable et accessibilité complète (navigation clavier,  lecture d’écran), création du logo. Données mockées en Json.",
+      "pInfos": "Réalisation de la partie Front-End fonctionnelle, POO, site responsive desktop & mobile. Liste dynamique des photographes et lien vers page dédiée, tri par tags, galerie photo et vidéo navigable et accessibilité complète (navigation clavier,  lecture d’écran), création du logo. Données mockées en Json.",
       "technos": [
         {
           "name": "Html",
@@ -165,7 +165,7 @@
       "pImg": "img/projets/GameOn.webp",
       "pName": "GameOn",
       "pDescription": "Spécialiste des conférences et concours gamers",
-      "pInfos": " À l’aide du code commencé par mon prédécesseur, d’un brief de mission et de maquettes, je devais compléter la partie front-end du projet et, entre autres, implémenter le code JavaScript permettant de fermer la modale et paramétrer les conditions de soumission des entrées du formulaire.",
+      "pInfos": " À l’aide du code commencé par mon prédécesseur, d’un brief de mission et de maquettes, je devais compléter la partie Front-End du projet, implémenter le code JavaScript permettant de fermer la modale et paramétrer les conditions de soumission des entrées du formulaire.",
       "technos": [
         {
           "name": "Html",
@@ -194,7 +194,7 @@
       "pImg": "img/projets/Cityfoodies.webp",
       "pName": "Cityfoodies",
       "pDescription": "Précommandes pour restaurants gastronomiques",
-      "pInfos": "Ma mission consistait à réaliser un prototype du site fidèle au cahier des charges et à créer la charte graphique ( et logo ) en utilisant l’approche mobile-first. Au menu de ce projet : site responsive, découverte du Scss, champ de recherche éditable, pages dédiées pour les cartes des restaurants...",
+      "pInfos": "Ma mission consistait à réaliser un prototype du site fidèle au cahier des charges et à créer la charte graphique (et logo) en utilisant l’approche mobile-first. Au menu de ce projet : site responsive, découverte du Scss, champ de recherche éditable, pages dédiées pour les cartes des restaurants.",
       "technos": [
         {
           "name": "Html",
@@ -219,7 +219,7 @@
       "pImg": "img/projets/Hairbnb.webp",
       "pName": "Hairbnb",
       "pDescription": "Réservation de logements 100% METAL",
-      "pInfos": "création du logo et de la charte graphique du projet, intégration de maquette responsive d'un site de réservation de logements de vacances. Simplement en Html-Css, ce premier projet de  formation revêt une importante toute particulière : démontrer les progrès que j'ai fait depuis avril 2021...",
+      "pInfos": "Création du logo et de la charte graphique du projet, intégration de maquette responsive d'un site de réservation de logements de vacances. Vous présenter ce premier projet de formation en Html/Css me permet d'illustrer les progrès réalisés depuis sa création en avril 2021.",
       "technos": [
         {
           "name": "Html",
@@ -244,7 +244,7 @@
       "pImg": "img/projets/Spleen.webp",
       "pName": "Spleen Cities",
       "pDescription": "Jeu Point & Click rétro (PC) dans l'univers de mon roman éponyme",
-      "pInfos": "Ma première rencontre avec le monde du dev (et le montage vidéo) ! Entièrement réalisé avec des ressources libres de droits et le moteur Adventure Game Studio. 18000 lignes de code, 9393 images retravaillées ou créées, 1939 lignes de dialogues, 80 musiques & effets sonores, 30 scènes originales, 16 litres de café pour...4 mois de travail.",
+      "pInfos": "Ma première rencontre avec le monde du dev (et le montage vidéo) ! Entièrement réalisé avec des ressources libres de droits et le moteur Adventure Game Studio. 18000 lignes de code, 9393 images retravaillées ou créées, 1939 lignes de dialogues, 80 musiques & effets sonores, 30 scènes originales, 16 litres de café pour... 4 mois de travail.",
       "technos": [],
       "pSite": "https://d48913ea-30ee-4023-aabe-0eb8bfda9652.usrfiles.com/archives/d48913_50b2d727e304430b8e843af8053a542e.zip",
       "but1": "Télécharger la démo (PC)",
