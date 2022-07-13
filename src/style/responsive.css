@@ -238,7 +238,6 @@
   .quatre1 b {
     font-size: 115px;
   }
-
   /*CV*/
   .cv {
     padding-top: 12vh;
@@ -251,6 +250,16 @@
   .skillsPhoto {
     max-height: 300px;
     margin: 15px 0 15px 0;
+  }
+  .cvConsult {
+    display: none;
+  }
+  .cvDownload {
+    width: 90vw;
+  }
+  .buttonWrap {
+    display: flex;
+    justify-content: center;
   }
   /*intro*/
   .intro {
@@ -274,11 +283,6 @@
   }
 
   /*Parcours*/
-  /*
-  .parcours img {
-    width: 100%;
-  }
-  */
   .parcours p {
     font-size: 14px;
     line-height: 18px;
