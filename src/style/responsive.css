@@ -228,15 +228,17 @@
     font-size: 17px;
     line-height: 24px;
   }
-  .cv h1,
-  .intro h1,
-  .parcours h1 {
-    font-size: 32px;
+  .cv p,
+  .contact p,
+  .intro p {
+    font-size: 15px;
+    line-height: 18px;
   }
   /*404*/
   .quatre1 b {
     font-size: 115px;
   }
+
   /*CV*/
   .cv {
     padding-top: 12vh;
@@ -245,6 +247,10 @@
   }
   .cv h2 {
     font-size: 17px;
+  }
+  .skillsPhoto {
+    max-height: 300px;
+    margin: 15px 0 15px 0;
   }
   /*intro*/
   .intro {
@@ -266,9 +272,16 @@
   .card:nth-child(even) {
     padding: 10px 10px 10px 0;
   }
+
   /*Parcours*/
+  /*
   .parcours img {
     width: 100%;
+  }
+  */
+  .parcours p {
+    font-size: 14px;
+    line-height: 18px;
   }
   .parcours .row {
     margin: unset;
@@ -316,12 +329,6 @@
     font-size: 15px;
     line-height: 20px;
   }
-  .réalisations h2 {
-    font-size: 20px;
-  }
-  .réalisations h3 {
-    font-size: 15px;
-  }
   .otherCardsFade > *:hover {
     opacity: 1;
     transform: scale(1);
@@ -329,53 +336,6 @@
   }
   .otherCardsFade > *:hover {
     transition: 0s;
-  }
-  /*Contact*/
-  .cInfosDivtel p {
-    left: -100%;
-    transform: translate(-40%, 30%);
-  }
-}
-/**********405**********************405**********************405************/
-@media (max-width: 405px) {
-  /*Genéral*/
-  .cv h1,
-  .contact h1,
-  .intro h1,
-  .parcours h1,
-  .réalisations h1 {
-    font-size: 24px;
-  }
-  .cv p,
-  .contact p,
-  .intro p {
-    font-size: 15px;
-    line-height: 18px;
-  }
-  /*CV*/
-  .skillsPhoto {
-    max-height: 300px;
-    margin: 15px 0 15px 0;
-  }
-  /*404*/
-  .quatre1 b {
-    font-size: 85px;
-  }
-  .quatre2 b {
-    font-size: 28px;
-  }
-  .quatre4 p {
-    font-size: 18px;
-  }
-  /*Header/Nav*/
-  .authorLogo {
-    margin-top: 5px;
-    max-height: 39px;
-  }
-  /*Parcours*/
-  .parcours p {
-    font-size: 14px;
-    line-height: 18px;
   }
   .parcours .title {
     font-size: 16px;
@@ -395,6 +355,37 @@
   }
   .parcours img {
     width: 90%;
+  }
+  /*Contact*/
+  .cInfosDivtel p {
+    left: -100%;
+    transform: translate(-40%, 30%);
+  }
+}
+/**********405**********************405**********************405************/
+@media (max-width: 405px) {
+  /*Genéral*/
+  .cv h1,
+  .contact h1,
+  .intro h1,
+  .parcours h1,
+  .réalisations h1 {
+    font-size: 24px;
+  }
+  /*404*/
+  .quatre1 b {
+    font-size: 85px;
+  }
+  .quatre2 b {
+    font-size: 28px;
+  }
+  .quatre4 p {
+    font-size: 18px;
+  }
+  /*Header/Nav*/
+  .authorLogo {
+    margin-top: 5px;
+    max-height: 39px;
   }
   /*Projects*/
   .réalisations {
