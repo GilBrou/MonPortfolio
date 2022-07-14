@@ -44,7 +44,7 @@
       "pImg": "img/projets/Gali.webp",
       "pName": "Rachel Gali - Autrice SFFF",
       "pDescription": "L'univers d'une apprentie conteuse",
-      "pInfos": "Rédaction en cours.",
+      "pInfos": "Site full responsive, Liste dynamique des ouvrages, lien vers page dédiée (DOM hydraté par Json), création de template pour les livres (image, vidéos, résumé général, résumé de texte, liens d'achats, liens d'avis...), code commenté. Création de la charte graphique, logo, infographie et animations.",
       "technos": [
         {
           "name": "Html",
@@ -80,8 +80,8 @@
       "pId": "projet9",
       "pImg": "img/projets/Miss.webp",
       "pName": "Les Sacs de la Miss",
-      "pDescription": "Rédaction en cours.",
-      "pInfos": "Rédaction en cours.",
+      "pDescription": "Sacs artisanaux uniques ou en séries limitées.",
+      "pInfos": " Création de la charte graphique et du logo pour une marque de sacs artisanaux. Site full responsive, DOM dynamique, composants modulaires et réutilisables.",
       "technos": [
         {
           "name": "Html",
@@ -111,7 +111,9 @@
       "pSite": "https://lessacsdelamiss.netlify.app/",
       "but1": "Visiter le site",
       "but2": "Détails du code",
-      "pCode": ""
+      "bClassName": "soloButton",
+      "pCode": "",
+      "b2ClassName": "buttonNotNeeded"
     },
 
     {
