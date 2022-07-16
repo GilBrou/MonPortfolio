@@ -1,7 +1,7 @@
 {
   "projets": [
     {
-      "pId": "projet11",
+      "pId": "projet12",
       "pImg": "img/projets/Portfolio.webp",
       "pName": "Mon portfolio",
       "pDescription": "",
@@ -28,6 +28,18 @@
           "icon": "img/techIcons/react.webp"
         },
         {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
         }
@@ -40,10 +52,10 @@
       "pCode": "https://github.com/GilBrou/MonPortfolio"
     },
     {
-      "pId": "projet10",
+      "pId": "projet11",
       "pImg": "img/projets/Gali.webp",
       "pName": "Rachel Gali - Autrice SFFF",
-      "pDescription": "L'univers d'une apprentie conteuse",
+      "pDescription": "L'univers d'une apprentie conteuse.",
       "pInfos": "Site full responsive, Liste dynamique des ouvrages, lien vers page dédiée (DOM hydraté par Json), création de template pour les livres (image, vidéos, résumé général, résumé de texte, liens d'achats, liens d'avis...), code commenté. Création de la charte graphique, logo, infographie et animations.",
       "technos": [
         {
@@ -67,6 +79,18 @@
           "icon": "img/techIcons/react.webp"
         },
         {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
         }
@@ -75,6 +99,38 @@
       "but1": "Visiter le site",
       "but2": "Détails du code",
       "pCode": "https://github.com/GilBrou/RachelGali"
+    },
+    {
+      "pId": "projet10",
+      "pImg": "img/projets/Learn.webp",
+      "pName": "Learn@Home",
+      "pDescription": "Association de soutien scolaire à distance.",
+      "pInfos": "   Ma mission consistait à réaliser les maquettes Desktop & Mobile, ainsi que les users stories et les diagrammes d'utilisation d'après le cahier des charges et les croquis fournis par l'entreprise.",
+      "technos": [
+        {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
+        }
+      ],
+      "pSite": "",
+      "but1": "Visiter le site",
+      "but2": "Détails du code",
+      "pCode": "https://github.com/GilBrou/Learn",
+      "bClassName": "buttonNotNeeded",
+      "but2": "Détails",
+      "b2ClassName": "soloButton"
     },
     {
       "pId": "projet9",
@@ -104,9 +160,21 @@
           "icon": "img/techIcons/react.webp"
         },
         {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
-        }
+        }     
       ],
       "pSite": "https://lessacsdelamiss.netlify.app/",
       "but1": "Visiter le site",
@@ -169,6 +237,14 @@
           "icon": "img/techIcons/javascript.webp"
         },
         {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
         }
@@ -182,7 +258,7 @@
       "pId": "projet6",
       "pImg": "img/projets/Chef.webp",
       "pName": "Ce soir, c'est VOUS le chef !",
-      "pDescription": "Moteur de recherche de recettes de cuisine",
+      "pDescription": "Moteur de recherche de recettes de cuisine.",
       "pInfos": "Ma mission : réaliser la partie Front-End et full responsive, développer deux algorithmes de recherche puis réaliser une fiche d’investigation de fonctionnalité afin de comparer leurs performances et, enfin, implémenter la fonctionnalité de recherche par ingrédients, appareils et ustensiles, création du logo. Données mockées.",
       "technos": [
         {
@@ -198,6 +274,14 @@
           "icon": "img/techIcons/javascript.webp"
         },
         {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
         }
@@ -211,7 +295,7 @@
       "pId": "projet5",
       "pImg": "img/projets/PICme.webp",
       "pName": "PICme",
-      "pDescription": "Plateforme pour photographes indépendants",
+      "pDescription": "Plateforme pour photographes indépendants.",
       "pInfos": "Réalisation de la partie Front-End fonctionnelle, POO, site responsive desktop & mobile. Liste dynamique des photographes et lien vers page dédiée, tri par tags, galerie photo et vidéo navigable et accessibilité complète (navigation clavier,  lecture d’écran), création du logo. Données mockées en Json.",
       "technos": [
         {
@@ -227,6 +311,14 @@
           "icon": "img/techIcons/javascript.webp"
         },
         {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
         }
@@ -240,7 +332,7 @@
       "pId": "projet4",
       "pImg": "img/projets/GameOn.webp",
       "pName": "GameOn",
-      "pDescription": "Spécialiste des conférences et concours gamers",
+      "pDescription": "Spécialiste des conférences et concours gamers.",
       "pInfos": " À l’aide du code commencé par mon prédécesseur, d’un brief de mission et de maquettes, je devais compléter la partie Front-End du projet, implémenter le code JavaScript permettant de fermer la modale et paramétrer les conditions de soumission des entrées du formulaire.",
       "technos": [
         {
@@ -269,7 +361,7 @@
       "pId": "projet3",
       "pImg": "img/projets/Cityfoodies.webp",
       "pName": "Cityfoodies",
-      "pDescription": "Précommandes pour restaurants gastronomiques",
+      "pDescription": "Précommandes pour restaurants gastronomiques.",
       "pInfos": "Ma mission consistait à réaliser un prototype du site fidèle au cahier des charges et à créer la charte graphique (et logo) en utilisant l’approche mobile-first. Au menu de ce projet : site responsive, découverte du Scss, champ de recherche éditable, pages dédiées pour les cartes des restaurants.",
       "technos": [
         {
@@ -279,6 +371,14 @@
         {
           "name": "Scss",
           "icon": "img/techIcons/sass.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
         },
         {
           "name": "Github",
@@ -294,7 +394,7 @@
       "pId": "projet2",
       "pImg": "img/projets/Hairbnb.webp",
       "pName": "Hairbnb",
-      "pDescription": "Réservation de logements 100% METAL",
+      "pDescription": "Réservation de logements 100% METAL.",
       "pInfos": "Création du logo et de la charte graphique du projet, intégration de maquette responsive d'un site de réservation de logements de vacances. Vous présenter ce premier projet de formation en Html/Css me permet d'illustrer les progrès réalisés depuis sa création en avril 2021.",
       "technos": [
         {
@@ -304,6 +404,14 @@
         {
           "name": "Css",
           "icon": "img/techIcons/css.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
         },
         {
           "name": "Github",
@@ -319,7 +427,7 @@
       "pId": "projet1",
       "pImg": "img/projets/Spleen.webp",
       "pName": "Spleen Cities",
-      "pDescription": "Jeu Point & Click rétro (PC) dans l'univers de mon roman éponyme",
+      "pDescription": "Jeu Point & Click rétro (PC) dans l'univers de mon roman éponyme.",
       "pInfos": "Ma première rencontre avec le monde du dev (et le montage vidéo) ! Entièrement réalisé avec des ressources libres de droits et le moteur Adventure Game Studio. 18000 lignes de code, 9393 images retravaillées ou créées, 1939 lignes de dialogues, 80 musiques & effets sonores, 30 scènes originales, 16 litres de café pour... 4 mois de travail.",
       "technos": [],
       "pSite": "https://d48913ea-30ee-4023-aabe-0eb8bfda9652.usrfiles.com/archives/d48913_50b2d727e304430b8e843af8053a542e.zip",

@@ -1,40 +1,3 @@
- {
-      "pId": "projet11",
-      "pImg": "img/projets/P1.webp",
-      "pName": "Rachel Gali",
-      "pDescription": "L'univers d'une apprentie conteuse",
-      "pInfos": "",
-      "technos": [
-        {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
-        },
-        {
-          "name": "JS",
-          "icon": "img/techIcons/javascript.webp"
-        },
-        {
-          "name": "Bootstrap",
-          "icon": "img/techIcons/bootstrap.webp"
-        },
-        {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
-        },
-        {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
-        }
-      ],
-      "pSite": "https://rachelgali.netlify.app/",
-      "but1": "Visiter le site",
-      "but2": "Détails du code",
-      "pCode": "https://github.com/GilBrou/KasaProject"
-    },
     {
       "pId": "projet10",
       "pImg": "img/projets/P1.webp",
@@ -94,39 +57,18 @@
         {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
-        }
-      ],
-      "pSite": "https://kasaproject.netlify.app/",
-      "but1": "Visiter le site",
-      "but2": "Détails du code",
-      "pCode": "https://github.com/GilBrou/KasaProject"
-    },
-    {
-      "pId": "projet8",
-      "pImg": "img/projets/P1.webp",
-      "pName": "P10",
-      "pDescription": "LEARN AT HOME",
-      "pInfos": "",
-      "technos": [
-        {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
         },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+                {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
         },
-        {
-          "name": "JS",
-          "icon": "img/techIcons/javascript.webp"
+                {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
         },
-        {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
-        },
-        {
+                {
           "name": "Github",
-          "icon": "img/techIcons/github.webp"
+          "icon": "img/techIcons/Inkscape.webp"
         }
       ],
       "pSite": "https://kasaproject.netlify.app/",
@@ -141,34 +83,42 @@
   "pDescription": "Réservation de logements 100% METAL",
   "pInfos": "Intégration de maquette responsive d'un site de réservation de logements de vacances 100% Metal.",
   "technos": [
-    {
-      "name": "Html",
-      "icon": "img/techIcons/html.webp"
-    },
-    {
-      "name": "Css",
-      "icon": "img/techIcons/css.webp"
-    },
-    {
-      "name": "Scss",
-      "icon": "img/techIcons/sass.webp"
-    },
-    {
-      "name": "JS",
-      "icon": "img/techIcons/javascript.webp"
-    },
-    {
-      "name": "React",
-      "icon": "img/techIcons/react.webp"
-    },
-    {
-      "name": "Github",
-      "icon": "img/techIcons/github.webp"
-    },
-    {
-      "name": "Bootstrap",
-      "icon": "img/techIcons/bootstrap.webp"
-    }
+ {
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
+        },
+        {
+          "name": "JS",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "img/techIcons/bootstrap.webp"
+        },
+        {
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
+        },
+        {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        },
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
+        }
   ],
   "pSite": "https://gilbrou.github.io/Hairbnb/",
   "pCode": "https://rachelgali.netlify.app/accueil"

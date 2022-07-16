@@ -112,6 +112,7 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+ margin-top: 10px;
 }
 /*Buttons*/
 .projectCard button {
@@ -143,10 +144,6 @@
 }
 .otherCardsFade > * {
   visibility: visible;
-  /*
-}
-.otherCardsFade > * {*/ /*testtesttesttesttets*/
-
   transition: opacity 150ms linear 100ms, transform 150ms ease-in-out 100ms;
 }
 .otherCardsFade:hover > * {
@@ -195,4 +192,16 @@
 .projectCard:hover .techs > :nth-child(7) {
   -webkit-animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.2s both;
   animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.2s both;
+}
+.projectCard:hover .techs > :nth-child(8) {
+  -webkit-animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.4s both;
+  animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.4s both;
+}
+.projectCard:hover .techs > :nth-child(9) {
+  -webkit-animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.6s both;
+  animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.6s both;
+}
+.projectCard:hover .techs > :nth-child(10) {
+  -webkit-animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.8s both;
+  animation: techAnim 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1.8s both;
 }
