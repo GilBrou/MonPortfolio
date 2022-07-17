@@ -1,7 +1,7 @@
 {
   "projets": [
     {
-      "pId": "projet14",
+      "pId": "projet15",
       "pImg": "img/projets/Portfolio.webp",
       "pName": "Mon portfolio",
       "pDescription": "",
@@ -52,7 +52,7 @@
       "pCode": "https://github.com/GilBrou/MonPortfolio"
     },
     {
-      "pId": "projet13",
+      "pId": "projet14",
       "pImg": "img/projets/Gali.webp",
       "pName": "Rachel Gali - Autrice SFFF",
       "pDescription": "L'univers d'une apprentie conteuse.",
@@ -101,11 +101,11 @@
       "pCode": "https://github.com/GilBrou/RachelGali"
     },
     {
-      "pId": "projet12",
+      "pId": "projet13",
       "pImg": "img/projets/Learn.webp",
       "pName": "Learn@Home",
       "pDescription": "Association de soutien scolaire à distance.",
-      "pInfos": "   Ma mission consistait à réaliser les maquettes Desktop & Mobile, ainsi que les users stories et les diagrammes d'utilisation d'après le cahier des charges et les croquis fournis par l'entreprise.",
+      "pInfos": "Ma mission consistait à réaliser les maquettes Desktop & Mobile, ainsi que les users stories et les diagrammes d'utilisation d'après le cahier des charges et les croquis fournis par l'entreprise.",
       "technos": [
         {
           "name": "Figma",
@@ -133,11 +133,11 @@
       "b2ClassName": "soloButton"
     },
     {
-      "pId": "projet9",
+      "pId": "projet12",
       "pImg": "img/projets/Miss.webp",
       "pName": "Les Sacs de la Miss",
       "pDescription": "Sacs artisanaux uniques ou en séries limitées.",
-      "pInfos": " Création de la charte graphique et du logo pour une marque de sacs artisanaux. Site full responsive, DOM dynamique, composants modulaires et réutilisables.",
+      "pInfos": "Création de la charte graphique et du logo pour une marque de sacs artisanaux. Site full responsive, DOM dynamique, composants modulaires et réutilisables.",
       "technos": [
         {
           "name": "Html",
@@ -254,11 +254,11 @@
       "b2ClassName": "soloButton"
     },
     {
-      "pId": "projet11",
+      "pId": "projet9",
       "pImg": "img/projets/Sport.webp",
       "pName": "SportSee",
       "pDescription": "Startup dédiée au coaching sportif",
-      "pInfos": " Je devais développer un tableau de bord d'analytics avec React tout en assurant la qualité des données de l'application, interagissant avec un service Web et développer des éléments graphiques avancés à l'aide d'une bibliothèque JavaScript (Recharts).",
+      "pInfos": "Je devais développer un tableau de bord d'analytics avec React tout en assurant la qualité des données de l'application, interagissant avec un service Web et développer des éléments graphiques avancés à l'aide d'une bibliothèque JavaScript (Recharts).",
       "technos": [
         {
           "name": "Html",
