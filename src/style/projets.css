@@ -6,10 +6,6 @@
 .réalisations .container {
   padding: unset;
   width: 70%;
-  /*
-  -webkit-animation: popInText 0.85s linear 2s both;
-  animation: popInText 0.85s linear 2s both;
-  */
 }
 .réalisations .row {
   display: flex;
@@ -22,13 +18,8 @@
   color: var(--primary-subcolor);
   padding-bottom: 10px;
   border-bottom: solid 1px var(--secondary-color);
-  /*border-width: 0px 0 1px 0px;*/ /*TESTTESTTESTTETS*/
   margin: auto auto 70px auto;
   max-width: 245px;
-  /*
-  -webkit-animation: bounce-in-top 1.1s 1.6s both;
-  animation: bounce-in-top 1.1s 1.6s both;
-  */
 }
 /*Project cards*/
 .projectCard {
@@ -112,7 +103,7 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
- margin-top: 10px;
+  margin-top: 10px;
 }
 /*Buttons*/
 .projectCard button {

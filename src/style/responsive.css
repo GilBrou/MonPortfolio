@@ -336,10 +336,10 @@
   .otherCardsFade > *:hover {
     opacity: 1;
     transform: scale(1);
-    transition: 0s;
   }
-  .otherCardsFade > *:hover {
-    transition: 0s;
+  .otherCardsFade:hover > * {
+    opacity: 1;
+    transform: scale(1);
   }
   .parcours .title {
     font-size: 16px;
