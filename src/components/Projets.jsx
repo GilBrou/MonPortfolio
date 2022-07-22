@@ -1,3 +1,5 @@
+import ReactTooltip from "react-tooltip";
+
 /***PROJECTS MODULE***/
 function Projets(props) {
   return (
@@ -25,7 +27,7 @@ function Projets(props) {
                           src={d.pImg}
                           loading="lazy"
                           className="img-responsive projectCardImg"
-                          alt="d.pName"
+                          alt={d.pName}
                         />{" "}
                         {/*Project title*/}
                         <h2>{d.pName}</h2>
@@ -47,10 +49,23 @@ function Projets(props) {
                                   loading="lazy"
                                   src={technos.icon}
                                   alt={technos.name}
+                                  data-tip={technos.name}
+                                  data-for="techTip"
                                 />
                               )
                             )
                           )}
+                          {/*Tooltip*/}
+                          <ReactTooltip
+                            id="techTip"
+                            place="bottom"
+                            textColor="#ffa101"
+                            arrowColor="#ffa101"
+                            border
+                            borderColor="#ffa101"
+                            effect="solid"
+                            backgroundColor="#222020"
+                          />
                         </div>
                         {/*Buttons wrapper*/}
                         <div className="buttonW">
