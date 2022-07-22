@@ -54,12 +54,14 @@
 }
 /*Possible link */
 .thisLinks {
+  position: absolute;
   color: var(--blackish);
   pointer-events: auto;
   width: 278px;
   background-color: var(--secondary-color);
   border-radius: 5px;
   padding: 10px;
+  margin-top: 55px;
   cursor: pointer;
   transition: all 0.5s;
   font-family: "Titillium Web", sans-serif;
@@ -145,7 +147,7 @@
 }
 .cardImgR {
   height: auto;
-  
+
   max-width: 400px;
   float: right;
   margin: 0 0 0 20px;

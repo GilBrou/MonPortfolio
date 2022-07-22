@@ -84,6 +84,12 @@
   .parcours .row > * {
     margin: auto;
   }
+  .thisLinks {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
 }
 /**********767**********************767**********************767************/
 @media (max-width: 767px) {
