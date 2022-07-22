@@ -167,6 +167,9 @@
     padding-left: 50px;
     padding-right: 50px;
   }
+  .intro .cInfosDiv p {
+    display: none;
+  }
   /*project*/
   .card p {
     font-size: 18px;
@@ -370,6 +373,11 @@
   .cInfosDivtel p {
     left: -100%;
     transform: translate(-40%, 30%);
+  }
+  /*Intro*/
+  .intro .cInfosDiv img {
+    width: 45px;
+    height: auto;
   }
 }
 /**********405**********************405**********************405************/

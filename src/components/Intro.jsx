@@ -12,7 +12,19 @@ function Intro(props) {
                 {props.data ? props.data.title : "loading..."}
               </h1>
               {/*Paragraph*/}
-              <p>{props.data ? props.data.paragraphIntro : "loading..."} </p>
+              <p>{props.data ? props.data.paragraphIntro : "loading..."}</p>
+
+              {/*Mail Link*/}
+              <div className="cInfosDiv">
+                <a href="mailto:gillian.brousse@outlook.fr">
+                  <img
+                    src={props.data2 ? props.data2.mailI : "loading..."}
+                    loading="lazy"
+                    alt={props.data2 ? props.data2.mailA : "loading..."}
+                  />
+                  <p>{props.data2 ? props.data2.mail : "loading..."} </p>
+                </a>
+              </div>
             </div>
 
             {/*Right part*/}

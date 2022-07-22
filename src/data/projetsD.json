@@ -8,12 +8,8 @@
       "pInfos": "Réalisation de la partie Front-End full responsive, DOM dynamique (depuis Json), composants modulaires et réutilisables, code commenté. Création de la charte graphique, logo, infographies, icônes et animations.",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
@@ -24,24 +20,29 @@
           "icon": "img/techIcons/bootstrap.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
         },
         {
-          "name": "Figma",
-          "icon": "img/techIcons/Figma.webp"
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
+        },
+
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
         },
         {
           "name": "Krita",
           "icon": "img/techIcons/Krita.webp"
         },
         {
-          "name": "Inkscape",
-          "icon": "img/techIcons/Inkscape.webp"
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
         },
         {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
         }
       ],
       "pSite": "https://www.gillianbroussedev.com/accueil",
@@ -59,12 +60,8 @@
       "pInfos": "Site full responsive, Liste dynamique des ouvrages, lien vers page dédiée (DOM hydraté par Json), création de template pour les livres (image, vidéos, résumé général, résumé de texte, liens d'achats, liens d'avis...), code commenté. Création de la charte graphique, logo, infographie et animations.",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
@@ -75,24 +72,29 @@
           "icon": "img/techIcons/bootstrap.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
         },
         {
-          "name": "Figma",
-          "icon": "img/techIcons/Figma.webp"
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
+        },
+
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
         },
         {
           "name": "Krita",
           "icon": "img/techIcons/Krita.webp"
         },
         {
-          "name": "Inkscape",
-          "icon": "img/techIcons/Inkscape.webp"
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
         },
         {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
         }
       ],
       "pSite": "https://rachelgali.com/",
@@ -140,12 +142,8 @@
       "pInfos": "Création de la charte graphique et du logo pour une marque de sacs artisanaux. Site full responsive, DOM dynamique, composants modulaires et réutilisables.",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
@@ -156,24 +154,29 @@
           "icon": "img/techIcons/bootstrap.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
         },
         {
-          "name": "Figma",
-          "icon": "img/techIcons/Figma.webp"
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
+        },
+
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
         },
         {
           "name": "Krita",
           "icon": "img/techIcons/Krita.webp"
         },
         {
-          "name": "Inkscape",
-          "icon": "img/techIcons/Inkscape.webp"
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
         },
         {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
         }
       ],
       "pSite": "https://lessacsdelamiss.netlify.app/",
@@ -191,20 +194,20 @@
       "pInfos": "Ma mission : faire passer une librairie jQuery vers React, et choisir l'un des composant JQuery et le publier comme bibliothèque react, analyser la performance d'une application, programmer en JavaScript avec la programmation fonctionnelle, refondre une application pour réduire la dette technique.",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
           "icon": "img/techIcons/javascript.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
         },
         {
           "name": "Github",
@@ -226,20 +229,20 @@
       "pInfos": "Mon travail consistait à implémenter un gestionnaire d'état dans une application React, modéliser, intéragir et m'identifier avec une API.",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
           "icon": "img/techIcons/javascript.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
         },
         {
           "name": "Github",
@@ -261,20 +264,20 @@
       "pInfos": "Je devais développer un tableau de bord d'analytics avec React tout en assurant la qualité des données de l'application, interagissant avec un service Web et développer des éléments graphiques avancés à l'aide d'une bibliothèque JavaScript (Recharts).",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
           "icon": "img/techIcons/javascript.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
         },
         {
           "name": "Github",
@@ -296,20 +299,20 @@
       "pInfos": "Refonte totale en full responsive et premiers pas avec React (pas de librairies externes), composants modulaires et réutilisables, page 404 pour les routes inexistantes. Données mockées en Json.",
       "technos": [
         {
-          "name": "Html",
-          "icon": "img/techIcons/html.webp"
-        },
-        {
-          "name": "Css",
-          "icon": "img/techIcons/css.webp"
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
         },
         {
           "name": "JS",
           "icon": "img/techIcons/javascript.webp"
         },
         {
-          "name": "React",
-          "icon": "img/techIcons/react.webp"
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
         },
         {
           "name": "Github",
@@ -329,6 +332,10 @@
       "pInfos": "Projet personnel : création du logo et de la charte graphique, POO, pages dynamiques (depuis fichier Json), rédaction des questions/réponses, affichage du score final et des réponses, animations fluides, fonctionnalité de tri des quiz par sujet, mode multijoueur local, full responsive.",
       "technos": [
         {
+          "name": "JS",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
           "name": "Html",
           "icon": "img/techIcons/html.webp"
         },
@@ -337,8 +344,8 @@
           "icon": "img/techIcons/sass.webp"
         },
         {
-          "name": "JS",
-          "icon": "img/techIcons/javascript.webp"
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
         },
         {
           "name": "Krita",
@@ -347,10 +354,6 @@
         {
           "name": "Inkscape",
           "icon": "img/techIcons/Inkscape.webp"
-        },
-        {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
         }
       ],
       "pSite": "https://gilbrou.github.io/CultQuizProject/",
@@ -366,6 +369,10 @@
       "pInfos": "Ma mission : réaliser la partie Front-End et full responsive, développer deux algorithmes de recherche puis réaliser une fiche d’investigation de fonctionnalité afin de comparer leurs performances et, enfin, implémenter la fonctionnalité de recherche par ingrédients, appareils et ustensiles, création du logo. Données mockées.",
       "technos": [
         {
+          "name": "JS",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
           "name": "Html",
           "icon": "img/techIcons/html.webp"
         },
@@ -374,8 +381,8 @@
           "icon": "img/techIcons/sass.webp"
         },
         {
-          "name": "JS",
-          "icon": "img/techIcons/javascript.webp"
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
         },
         {
           "name": "Krita",
@@ -384,10 +391,6 @@
         {
           "name": "Inkscape",
           "icon": "img/techIcons/Inkscape.webp"
-        },
-        {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
         }
       ],
       "pSite": "https://gilbrou.github.io/CeSoirC-estVousLeChef/",
@@ -403,6 +406,10 @@
       "pInfos": "Réalisation de la partie Front-End fonctionnelle, POO, site responsive desktop & mobile. Liste dynamique des photographes et lien vers page dédiée, tri par tags, galerie photo et vidéo navigable et accessibilité complète (navigation clavier,  lecture d’écran), création du logo. Données mockées en Json.",
       "technos": [
         {
+          "name": "JS",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
           "name": "Html",
           "icon": "img/techIcons/html.webp"
         },
@@ -411,8 +418,8 @@
           "icon": "img/techIcons/sass.webp"
         },
         {
-          "name": "JS",
-          "icon": "img/techIcons/javascript.webp"
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
         },
         {
           "name": "Krita",
@@ -421,10 +428,6 @@
         {
           "name": "Inkscape",
           "icon": "img/techIcons/Inkscape.webp"
-        },
-        {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
         }
       ],
       "pSite": "https://gilbrou.github.io/PICme/",
@@ -440,16 +443,16 @@
       "pInfos": " À l’aide du code commencé par mon prédécesseur, d’un brief de mission et de maquettes, je devais compléter la partie Front-End du projet, implémenter le code JavaScript permettant de fermer la modale et paramétrer les conditions de soumission des entrées du formulaire.",
       "technos": [
         {
+          "name": "JS",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
           "name": "Html",
           "icon": "img/techIcons/html.webp"
         },
         {
           "name": "Css",
           "icon": "img/techIcons/css.webp"
-        },
-        {
-          "name": "JS",
-          "icon": "img/techIcons/javascript.webp"
         },
         {
           "name": "Github",
@@ -481,12 +484,12 @@
           "icon": "img/techIcons/Krita.webp"
         },
         {
-          "name": "Inkscape",
-          "icon": "img/techIcons/Inkscape.webp"
-        },
-        {
           "name": "Github",
           "icon": "img/techIcons/github.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
         }
       ],
       "pSite": "https://gilbrou.github.io/cityfoodies/",
@@ -510,16 +513,16 @@
           "icon": "img/techIcons/css.webp"
         },
         {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
+        },
+        {
           "name": "Krita",
           "icon": "img/techIcons/Krita.webp"
         },
         {
           "name": "Inkscape",
           "icon": "img/techIcons/Inkscape.webp"
-        },
-        {
-          "name": "Github",
-          "icon": "img/techIcons/github.webp"
         }
       ],
       "pSite": "https://gilbrou.github.io/Hairbnb/",

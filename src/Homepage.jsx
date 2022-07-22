@@ -26,7 +26,7 @@ function Homepage(data) {
   return (
     <div className="homepage">
       <Header data={data.data.nav} />
-      <Intro data={data.data.intro} />
+      <Intro data={data.data.intro} data2={data.data.contact} />
       <Parcours data={data.data.parcours} />
       <Projets data={pDatas} />
       <CV data={data.data.cv} />
