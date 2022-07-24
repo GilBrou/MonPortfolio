@@ -1,13 +1,41 @@
 import ReactTooltip from "react-tooltip";
+import { useEffect, useState } from "react";
 
 /***PROJECTS MODULE***/
 function Projets(props) {
+  /*Tooltip*/
+  function tTip() {
+    const [tip, setTip] = useState(0);
+    useEffect(() => {
+      function incrementNum() {
+        setTip(+1);
+      }
+      incrementNum();
+    }, []);
+    if (tip > 0) {
+      return (
+        <ReactTooltip
+          id="techTip"
+          place="bottom"
+          textColor="#ffa101"
+          arrowColor="#ffa101"
+          border
+          borderColor="#ffa101"
+          effect="solid"
+          backgroundColor="#222020"
+        />
+      );
+    }
+  }
+  /*Main*/
   return (
     <section id="réalisations">
       <div className="réalisations">
         {/*Title*/}
         <h1 className="text-center">Réalisations</h1>
         <div className="container">
+          {/*Tooltip template*/}
+          {tTip()}
           {/*Project cards wrapper*/}
           <div className="row otherCardsFade">
             {/*Dynamic Project cards creation from Json data*/}
@@ -55,17 +83,6 @@ function Projets(props) {
                               )
                             )
                           )}
-                          {/*Tooltip*/}
-                          <ReactTooltip
-                            id="techTip"
-                            place="bottom"
-                            textColor="#ffa101"
-                            arrowColor="#ffa101"
-                            border
-                            borderColor="#ffa101"
-                            effect="solid"
-                            backgroundColor="#222020"
-                          />
                         </div>
                         {/*Buttons wrapper*/}
                         <div className="buttonW">

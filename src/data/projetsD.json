@@ -12,7 +12,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -64,7 +64,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -146,7 +146,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -198,7 +198,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -233,7 +233,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -268,7 +268,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -303,7 +303,7 @@
           "icon": "img/techIcons/react.webp"
         },
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -332,7 +332,7 @@
       "pInfos": "Projet personnel : création du logo et de la charte graphique, POO, pages dynamiques (depuis fichier Json), rédaction des questions/réponses, affichage du score final et des réponses, animations fluides, fonctionnalité de tri des quiz par sujet, mode multijoueur local, full responsive.",
       "technos": [
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -369,7 +369,7 @@
       "pInfos": "Ma mission : réaliser la partie Front-End et full responsive, développer deux algorithmes de recherche puis réaliser une fiche d’investigation de fonctionnalité afin de comparer leurs performances et, enfin, implémenter la fonctionnalité de recherche par ingrédients, appareils et ustensiles, création du logo. Données mockées.",
       "technos": [
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -406,7 +406,7 @@
       "pInfos": "Réalisation de la partie Front-End fonctionnelle, POO, site responsive desktop & mobile. Liste dynamique des photographes et lien vers page dédiée, tri par tags, galerie photo et vidéo navigable et accessibilité complète (navigation clavier,  lecture d’écran), création du logo. Données mockées en Json.",
       "technos": [
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
@@ -443,7 +443,7 @@
       "pInfos": " À l’aide du code commencé par mon prédécesseur, d’un brief de mission et de maquettes, je devais compléter la partie Front-End du projet, implémenter le code JavaScript permettant de fermer la modale et paramétrer les conditions de soumission des entrées du formulaire.",
       "technos": [
         {
-          "name": "JS",
+          "name": "JavaScript",
           "icon": "img/techIcons/javascript.webp"
         },
         {
