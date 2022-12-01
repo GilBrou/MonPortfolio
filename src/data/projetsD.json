@@ -1,5 +1,57 @@
 {
   "projets": [
+        {
+      "pId": "projet16",
+      "pImg": "img/projets/nda.webp",
+      "pName": "Noir D'Absinthe",
+      "pDescription": "Nouveau site d'une maison d'édition",
+      "pInfos": " Réalisation de la partie Front-End full responsive, DOM dynamique (depuis Json), composants modulaires et réutilisables, code commenté. Respect de l'ancienne charte graphique et création de la nouvelle, infographies et animations.",
+      "technos": [
+        {
+          "name": "React",
+          "icon": "img/techIcons/react.webp"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "img/techIcons/javascript.webp"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "img/techIcons/bootstrap.webp"
+        },
+        {
+          "name": "Html",
+          "icon": "img/techIcons/html.webp"
+        },
+        {
+          "name": "Css",
+          "icon": "img/techIcons/css.webp"
+        },
+
+        {
+          "name": "Github",
+          "icon": "img/techIcons/github.webp"
+        },
+        {
+          "name": "Krita",
+          "icon": "img/techIcons/Krita.webp"
+        },
+        {
+          "name": "Figma",
+          "icon": "img/techIcons/Figma.webp"
+        },
+        {
+          "name": "Inkscape",
+          "icon": "img/techIcons/Inkscape.webp"
+        }
+      ],
+      "pSite": "https://nda-2.netlify.app/accueil",
+      "but1": "Visiter le site (préproduction)",
+      "bClassName": "soloButton",
+      "but2": "Détails du code",
+      "b2ClassName": "buttonNotNeeded",
+      "pCode": "https://github.com/GilBrou/nda"
+    },
     {
       "pId": "projet15",
       "pImg": "img/projets/Portfolio.webp",

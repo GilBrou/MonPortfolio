@@ -54,6 +54,7 @@ function Contact(props) {
             </a>
           </div>
           {/*Telephone*/}
+          {/*
           <div className="cInfosDiv cInfosDivtel text-center">
             <img
               src={props.data ? props.data.telI : "loading..."}
@@ -62,6 +63,7 @@ function Contact(props) {
             />
             <p>{props.data ? props.data.tel : "loading..."} </p>
           </div>
+          */}
         </div>
       </div>
     </footer>

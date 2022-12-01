@@ -10,7 +10,8 @@
   },
   "intro": {
     "title": "Bienvenue",
-    "paragraphIntro": "Développeur Front-End diplômé avec une appétence certaine pour l'UI et l'UX, je suis à la recherche d'une entreprise afin de me former en alternance au métier d'UX designer en collaboration avec OpenClassrooms. Pour autant, je saurais mettre à votre disposition sans délai les compétences acquises lors de ma formation de Développeur d'application JavaScript/React.",
+    "paragraphIntroOLD": "Développeur Front-End diplômé avec une appétence certaine pour l'UI et l'UX, je suis à la recherche d'une entreprise afin de me former en alternance au métier d'UX designer en collaboration avec OpenClassrooms. Pour autant, je saurais mettre à votre disposition sans délai les compétences acquises lors de ma formation de Développeur d'application JavaScript/React.",
+    "paragraphIntro": "Développeur Front-End diplômé avec une appétence certaine pour l'UI et l'UX, je suis à la recherche d'une entreprise afin de mettre à profit sans délai les compétences acquises lors de ma formation de Développeur d'application JavaScript/React.",
     "photoIntro": "img/GBphoto.webp",
     "photoAlt": "Photo de Gillian Brousse"
   },
@@ -72,7 +73,8 @@
   "cv": {
     "cvImg": "img/Skills.webp",
     "cvImgAlt": "Programming skills",
-    "cvParagraph": "Si mon profil apparaît cohérent avec vos recherches et que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou me rencontrer, je vous invite à télécharger/consulter mon CV et à me contacter."
+    "cvParagraphOLD": "Si mon profil apparaît cohérent avec vos recherches et que vous souhaitez en apprendre plus sur mon expérience professionnelle, les spécificités de l'alternance ou me rencontrer, je vous invite à télécharger/consulter mon CV et à me contacter.",
+    "cvParagraph": "Si mon profil apparaît cohérent avec vos recherches et que vous souhaitez en apprendre plus sur mon expérience professionnelle ou me rencontrer, je vous invite à télécharger/consulter mon CV et à me contacter."
   },
   "contact": {
     "title": "Contact",

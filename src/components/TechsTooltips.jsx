@@ -12,10 +12,10 @@ backgroundColor = "#222020";
            <ReactTooltip
                             id="techTip"
                             place="bottom"
-                            textColor="#ffa101"
-                            arrowColor="#ffa101"
+                            textColor="#2CC78E"
+                            arrowColor="#2CC78E"
                             border="true"
-                            borderColor="#ffa101"
+                            borderColor="#2CC78E"
                             effect="solid"
                             backgroundColor="#222020"
                           />
