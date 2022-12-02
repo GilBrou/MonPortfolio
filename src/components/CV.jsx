@@ -35,11 +35,7 @@ function CV(props) {
                   </button>
                 </Link>
                 {/*PDF donwload link*/}
-                <Link
-                  to="/CV_Gillian_Brousse.pdf"
-                  target="_blank"
-                  download
-                >
+                <Link to="/CV_Gillian_Brousse.pdf" target="_blank" download>
                   {/*Button*/}
                   <button className="cvDownload">
                     {/*Buttons text*/}
