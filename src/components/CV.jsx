@@ -27,7 +27,7 @@ function CV(props) {
               {/*Buttons wrapper*/}
               <div className="buttonWrap">
                 {/*PDF consult link*/}
-                <Link to="/CV_Gillian_Brousse_2022.pdf" target="_blank">
+                <Link to="/CV_Gillian_Brousse.pdf" target="_blank">
                   {/*Button*/}
                   <button className="cvConsult">
                     {/*Buttons text*/}
