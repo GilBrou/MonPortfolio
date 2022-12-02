@@ -36,7 +36,7 @@ function CV(props) {
                 </Link>
                 {/*PDF donwload link*/}
                 <Link
-                  to="/CV_Gillian_Brousse_2022.pdf"
+                  to="/CV_Gillian_Brousse.pdf"
                   target="_blank"
                   download
                 >
